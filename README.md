@@ -35,9 +35,9 @@ npm run build
 * 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ☺ ☺ ☺
 
 ###### 附gif效果图
-\<br>  
+ 
 ![](https://github.com/seven77Zhou/vue-show-show/blob/gh-pages/page2.gif)
-\<br>  
+
 ![](https://github.com/seven77Zhou/vue-show-show/blob/gh-pages/page3.gif)
-\<br> 
+
 ![](https://github.com/seven77Zhou/vue-show-show/blob/gh-pages/page1.gif)
