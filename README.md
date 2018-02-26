@@ -7,7 +7,8 @@
 
 ## 项目已部署，在线Demo
 * 在线地址： [demo](https://seven77zhou.github.io/vue-show-show/vue_shop_show/index.html)（请用chrome手机模式预览）
-* 也可以扫二维码手机查看：![](https://github.com/seven77Zhou/vue-show-show/blob/gh-pages/code.jpg)
+* 也可以扫二维码手机查看：
+* ![](https://github.com/seven77Zhou/vue-show-show/blob/gh-pages/code.jpg)
 * 第一次打开可能较慢，请耐心等待
 ## Build Setup
 
@@ -32,3 +33,11 @@ npm run build
 * 对vux还不熟悉的童鞋，可参见本人写的vuex入门demo,附链接：[vuex-shopcart](https://github.com/seven77Zhou/vuex-Module-shopCart-forBeginner),[vuex-demos](https://github.com/seven77Zhou/vuex-for-Beginner)
 * 对于mock.js不熟悉的童鞋，看下官网或者后面我会再写一个小demo，等我哦☺~
 * 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ☺ ☺ ☺
+
+###### 附gif效果图
+\<br>  
+![](https://github.com/seven77Zhou/vue-show-show/blob/gh-pages/page2.gif)
+\<br>  
+![](https://github.com/seven77Zhou/vue-show-show/blob/gh-pages/page3.gif)
+\<br> 
+![](https://github.com/seven77Zhou/vue-show-show/blob/gh-pages/page1.gif)
