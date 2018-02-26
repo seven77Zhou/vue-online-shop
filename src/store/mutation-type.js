@@ -1,0 +1,12 @@
+//全局loading页面
+export const SET_LOADING = 'SET_LOADING'
+export const SET_PRODUCT = 'SET_PRODUCT'
+export const ADD_PRODUCT = 'ADD_PRODUCT'
+export const DEL_PRODUCT = 'DEL_PRODUCT'
+export const DEL_PAY = 'DEL_PAY'
+export const ADD_PAY = 'ADD_PAY'
+export const ADD_PAYLIST = 'ADD_PAYLIST'
+export const ADD_ORDERLIST = 'ADD_ORDERLIST'
+export const DEL_CART = 'DEL_CART'
+export const CHANGE_CLASSIFY_index = 'CHANGE_CLASSIFY_index'
+export const CHANGE_CLASSIFY_LIST = 'CHANGE_CLASSIFY_LIST'
