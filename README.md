@@ -6,7 +6,7 @@
 > vue2 + vuex + vue-router + webpack + ES6 + sass + mock + mint-ui
 
 ## 项目已部署，在线Demo
-* 在线地址： [demo](https://seven77zhou.github.io/vue-show-show/vue_shop_show/index.html)（请用chrome手机模式预览）
+* 在线地址： [本项目在线地址,点击这里~~](https://seven77zhou.github.io/vue-show-show/vue_shop_show/index.html)（请用chrome手机模式预览）
 * 也可以扫二维码手机查看：
 * ![](https://github.com/seven77Zhou/vue-show-show/blob/gh-pages/code.jpg)
 * 第一次打开可能较慢，请耐心等待
