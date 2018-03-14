@@ -80,14 +80,10 @@
 				}
 			}
 		},
-		created(){
-			if(!JSON.parse( getStorage('user'))){
-				this.$router.push('/login');
-				return
-			}
+		created(){	
+			//获取用户信息
 			
-			this.user =JSON.parse( getStorage('user'));
-			
+			this.user =JSON.parse( getStorage('user'))? JSON.parse( getStorage('user')) : {};			
 			
 		},
 		components:{

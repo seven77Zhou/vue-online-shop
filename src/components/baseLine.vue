@@ -8,8 +8,7 @@
     padding: 8vw 0;
     text-align: center;
     letter-spacing: 2px;
-    color: #333;
-    font-weight: bold;
+    color: #999;
     font-size: 14px;
   }
 </style>

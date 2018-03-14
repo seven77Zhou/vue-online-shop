@@ -81,3 +81,4 @@ const classify = Mock.mock('http://mockapi.com/classifyPage',{
 	]
 })
 export {index,detail,classify}
+
